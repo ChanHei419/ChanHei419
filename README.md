@@ -88,7 +88,7 @@
 <div align="center">
   <a href="https://github.com/ChanHei419"><img src="https://img.shields.io/badge/GitHub-ChanHei419-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/helon-chan/"><img src="https://img.shields.io/badge/LinkedIn-helon--chan-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:cccheilllun4129@gmail.com"><img src="https://img.shields.io/badge/Email-cccheilllun4129@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:cccheilllun419@gmail.com"><img src="https://img.shields.io/badge/Email-cccheilllun419@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br />
