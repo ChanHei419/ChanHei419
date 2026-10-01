@@ -4,25 +4,31 @@
 
 <div align="center">
   <a href="https://github.com/ChanHei419">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Engineering;Cloud+%26+AI+Automation;Data;Full-Stack+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Engineering;Cloud+%26+AI+Automation;Data;Full-Stack+Development" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
-## 👋 About Me
+### Hi, I'm HeiChan
 
-**BEng in Information Engineering @ The Chinese University of Hong Kong** — I build across **Software Engineering**, **Cloud & AI Automation**, and **Data**.
+BEng in Information Engineering at **The Chinese University of Hong Kong**, building across **Software Engineering**, **Cloud & AI Automation**, and **Data**.
 
-- ☁️ Azure infrastructure as code (Terraform + OIDC CI/CD), ServiceNow workflow automation, Copilot Studio / Power Automate
-- 🤖 Applied AI: 3-stage lyric transcription pipeline (Demucs → fine-tuned Wav2Vec2 → Flask API), tracked with WER
-- 🧩 Full-stack: Nuxt 3 / Vue 3, Laravel, Python (Flask / FastAPI), Kotlin, MongoDB / SQL
-- 🛡️ Security fundamentals: Linux, Nmap, Suricata, applied cryptography coursework
-- 🎯 Open to graduate roles in SWE, Cloud & AI, and Data
+**Portfolio:** [my-cv-omega-seven.vercel.app](https://my-cv-omega-seven.vercel.app/)
 
 ---
 
-## 🧰 Tech Stack
+## About Me
+
+- Azure infrastructure as code (Terraform + OIDC CI/CD), ServiceNow workflow automation, Copilot Studio / Power Automate
+- Applied AI: 3-stage lyric transcription pipeline (Demucs, fine-tuned Wav2Vec2, FastAPI), evaluated with Word Error Rate
+- Full-stack: Nuxt 3 / Vue 3, Laravel, Python (Flask / FastAPI), Kotlin, MongoDB / SQL
+- Security fundamentals: Linux, Nmap, Suricata IDS, applied cryptography coursework
+- Open to graduate roles in SWE, Cloud & AI, and Data
+
+---
+
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,js,kotlin,php,azure,terraform,docker,git,github,linux,mongodb,mysql,flask,fastapi,laravel,nuxt,vue,bootstrap,sass" alt="Tech stack icons" />
@@ -42,13 +48,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it shows | Stack |
 | :--- | :--- | :--- |
-| [**AI Lyric Detection System**](https://github.com/ChanHei419/ai-lyric-detection) | 3-stage audio AI pipeline: vocal separation → speech recognition → clean lyrics, with API, CLI, and Gradio UI | `PyTorch` `Wav2Vec2` `Demucs` `FastAPI` |
+| [**AI Lyric Detection System**](https://github.com/ChanHei419/ai-lyric-detection) | 3-stage audio AI pipeline: vocal separation, speech recognition, clean lyrics — with API, CLI, and Gradio UI | `PyTorch` `Wav2Vec2` `Demucs` `FastAPI` |
 | [**Azure Terraform Lab**](https://github.com/ChanHei419/azure-terraform-lab) | Modular Azure IaC with secretless OIDC CI/CD and least-privilege managed identities | `Terraform` `Azure` `GitHub Actions` |
-| [**HeiChan CV Platform**](https://github.com/ChanHei419/MyCV) | Multi-page Nuxt 3 portfolio with live GitHub API stats, dark mode, and interactive dashboards | `Nuxt 3` `Vue 3` `SCSS` |
+| [**HeiChan CV Platform**](https://github.com/ChanHei419/MyCV) | Multi-page Nuxt 3 portfolio with live GitHub API stats, dark-first design, and interactive dashboards | `Nuxt 3` `Vue 3` `SCSS` |
 | [**Student Management System**](https://github.com/ChanHei419/studentManagement) | Full CRUD MVC app: validation, search, pagination, seeders, soft deletes | `Laravel 12` `PHP` `Blade` |
 | [**Campus Navigator**](https://github.com/ChanHei419/campus-navigator) | Android app with a local Dijkstra route planner and a Retrofit backend contract | `Kotlin` `Compose` `Retrofit` |
 | [**ML Model Serving**](https://github.com/ChanHei419/model-serving-demo) | Production-style model serving: artifact, health probes, metrics, Docker | `FastAPI` `Docker` `Prometheus` |
@@ -59,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChanHei419&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
@@ -89,7 +95,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
   <a href="https://github.com/ChanHei419"><img src="https://img.shields.io/badge/GitHub-ChanHei419-181717?logo=github" alt="GitHub" /></a>
