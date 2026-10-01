@@ -46,10 +46,16 @@
 
 | Project | What it shows | Stack |
 | :--- | :--- | :--- |
+| [**AI Lyric Detection System**](https://github.com/ChanHei419/ai-lyric-detection) | 3-stage audio AI pipeline: vocal separation → speech recognition → clean lyrics, with API, CLI, and Gradio UI | `PyTorch` `Wav2Vec2` `Demucs` `FastAPI` |
+| [**Azure Terraform Lab**](https://github.com/ChanHei419/azure-terraform-lab) | Modular Azure IaC with secretless OIDC CI/CD and least-privilege managed identities | `Terraform` `Azure` `GitHub Actions` |
 | [**HeiChan CV Platform**](https://github.com/ChanHei419/MyCV) | Multi-page Nuxt 3 portfolio with live GitHub API stats, dark mode, and interactive dashboards | `Nuxt 3` `Vue 3` `SCSS` |
 | [**Student Management System**](https://github.com/ChanHei419/studentManagement) | Full CRUD MVC app: validation, search, pagination, seeders, soft deletes | `Laravel 12` `PHP` `Blade` |
-| **AI Lyric Detection System** | 3-stage audio AI pipeline with REST API and real-time progress | `PyTorch` `Wav2Vec2` `Demucs` `Flask` |
-| **Campus Navigator** | Android campus navigation with map services and MongoDB backend | `Kotlin` `Google Maps API` `Retrofit` |
+| [**Campus Navigator**](https://github.com/ChanHei419/campus-navigator) | Android app with a local Dijkstra route planner and a Retrofit backend contract | `Kotlin` `Compose` `Retrofit` |
+| [**ML Model Serving**](https://github.com/ChanHei419/model-serving-demo) | Production-style model serving: artifact, health probes, metrics, Docker | `FastAPI` `Docker` `Prometheus` |
+| [**Data Automation Toolkit**](https://github.com/ChanHei419/data-automation-toolkit) | Dependency-free CSV cleaning and SQLite reporting with tests and CI | `Python` `SQLite` |
+| [**DSA Practice**](https://github.com/ChanHei419/dsa-practice) | From-scratch data structures and algorithms with complexity notes and 28 tests | `Python` `Algorithms` |
+| [**Security Lab**](https://github.com/ChanHei419/security-lab) | Nmap reconnaissance and Suricata IDS write-ups plus a report generator | `Nmap` `Suricata` `Python` |
+| [**Tech Notes**](https://github.com/ChanHei419/tech-notes) | Working notes on Azure, OIDC CI/CD, ServiceNow, PyTorch audio, and automation | `Markdown` |
 
 ---
 
